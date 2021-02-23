@@ -1,6 +1,6 @@
 # @0x825
 <div style='font-size:1.2em'>
-	<b>Kayy#1661 g</b>
+	<b>Kayy#1661</b>
 	<br>
 
 </div>
